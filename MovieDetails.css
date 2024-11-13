@@ -1,0 +1,22 @@
+/* MovieDetails.css */
+
+.container {
+    text-align: center;
+}
+
+.movie-details img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+button {
+    background-color: #9b59b6;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #8e44ad;
+}

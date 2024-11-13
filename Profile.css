@@ -1,0 +1,21 @@
+/* Profile.css */
+
+.container {
+    padding: 20px;
+}
+
+.profile-info {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #2980b9;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #1a5276;
+}
